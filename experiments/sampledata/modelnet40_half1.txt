@@ -1,0 +1,10 @@
+airplane
+bathtub
+bed
+bench
+bookshelf
+bottle
+bowl
+car
+chair
+cone

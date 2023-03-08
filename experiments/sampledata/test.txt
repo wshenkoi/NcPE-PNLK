@@ -1,0 +1,5 @@
+toilet
+tv_stand
+vase
+wardrobe
+xbox

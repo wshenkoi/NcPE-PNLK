@@ -1,0 +1,43 @@
+DEBUG:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 02:16:07,984, Training (PID=886), Namespace(batch_size=32, categoryfile='./sampledata/modelnet40_half1.txt', crop=1.0, dataset_path='/content/drive/MyDrive/model40', dataset_type='modelnet', delta=0.01, device='cuda:0', dim_k=1024, epochs=200, learn_delta=False, logfile='/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log', mag=0.8, max_iter=10, num_points=1024, optimizer='Adam', outfile='r_g', pointnet='tune', pretrained='', resume='./r_g_snap_last.pth', start_epoch=0, symfn='max', transfer_from='', workers=4)
+DEBUG:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 08:36:02,452, Training (PID=626), Namespace(batch_size=32, categoryfile='./sampledata/modelnet40_half1.txt', crop=1.0, dataset_path='/content/drive/MyDrive/model40', dataset_type='modelnet', delta=0.01, device='cuda:0', dim_k=1024, epochs=200, learn_delta=False, logfile='/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log', mag=0.8, max_iter=10, num_points=1024, optimizer='Adam', outfile='r_g', pointnet='tune', pretrained='', resume='./r_g_snap_last.pth', start_epoch=0, symfn='max', transfer_from='', workers=4)
+DEBUG:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 08:36:40,067, train, begin
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 08:53:45,290, epoch, 0053, overlap, 1.000000, 14.113253, 21.642092, 0.011759, 0.014128
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 09:03:35,096, epoch, 0054, overlap, 1.000000, 8.578212, 12.871458, 0.007497, 0.010935
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 09:13:18,690, epoch, 0055, overlap, 1.000000, 11.206541, 3.117894, 0.011010, 0.007350
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 09:23:00,874, epoch, 0056, overlap, 1.000000, 13.545244, 15.654345, 0.011165, 0.012234
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 09:32:52,550, epoch, 0057, overlap, 1.000000, 87.721305, 3.929797, 0.012267, 0.013276
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 09:42:42,420, epoch, 0058, overlap, 1.000000, 9.784202, 2.367786, 0.008280, 0.012867
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 09:52:26,759, epoch, 0059, overlap, 1.000000, 11.106064, 6.512474, 0.012165, 0.009767
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 10:02:13,728, epoch, 0060, overlap, 1.000000, 10.252189, 9.793368, 0.008668, 0.009411
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 10:11:55,227, epoch, 0061, overlap, 1.000000, 14.204538, 4.962508, 0.010023, 0.010552
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 10:21:42,303, epoch, 0062, overlap, 1.000000, 14.946840, 13.119028, 0.013289, 0.014767
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 10:31:22,869, epoch, 0063, overlap, 1.000000, 7.852930, 6.308671, 0.008456, 0.017346
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 10:41:09,210, epoch, 0064, overlap, 1.000000, 12.712878, 19.273226, 0.009026, 0.016259
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 10:50:51,602, epoch, 0065, overlap, 1.000000, 15.774685, 6.715057, 0.008986, 0.009673
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:00:35,739, epoch, 0066, overlap, 1.000000, 9.850802, 2.462502, 0.010545, 0.009618
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:10:18,219, epoch, 0067, overlap, 1.000000, 13.522233, 1.990691, 0.012263, 0.010491
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:19:58,081, epoch, 0068, overlap, 1.000000, 6.924447, 0.635108, 0.009129, 0.005613
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:29:41,119, epoch, 0069, overlap, 1.000000, 6.628539, 1.253070, 0.010758, 0.013670
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:39:25,227, epoch, 0070, overlap, 1.000000, 6.906435, 3.284702, 0.010729, 0.013203
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:49:12,046, epoch, 0071, overlap, 1.000000, 6.212480, 14.782319, 0.007503, 0.011792
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 11:58:56,451, epoch, 0072, overlap, 1.000000, 11.338472, 20.610749, 0.009763, 0.016205
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 12:08:47,335, epoch, 0073, overlap, 1.000000, 9.328792, 1.524749, 0.009628, 0.009388
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-03 12:18:41,427, epoch, 0074, overlap, 1.000000, 4.846796, 3.906128, 0.009310, 0.008352
+DEBUG:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 08:23:29,645, Training (PID=1065), Namespace(batch_size=32, categoryfile='./sampledata/modelnet40_half1.txt', crop=1.0, dataset_path='/content/drive/MyDrive/model40', dataset_type='modelnet', delta=0.01, device='cuda:0', dim_k=1024, epochs=200, learn_delta=False, logfile='/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log', mag=0.8, max_iter=10, num_points=1024, optimizer='Adam', outfile='r_g', pointnet='tune', pretrained='', resume='./r_g_snap_last.pth', start_epoch=0, symfn='max', transfer_from='', workers=4)
+DEBUG:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 08:24:02,976, train, begin
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 08:35:42,727, epoch, 0075, overlap, 1.000000, 82.482047, 3.219242, 0.009113, 0.011910
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 08:45:41,951, epoch, 0076, overlap, 1.000000, 5.817227, 3.925999, 0.008082, 0.009776
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 08:56:19,912, epoch, 0077, overlap, 1.000000, 16.015496, 14.451573, 0.012864, 0.009925
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 09:06:23,354, epoch, 0078, overlap, 1.000000, 7.116710, 4450.845257, 0.008881, 0.030138
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 09:16:19,523, epoch, 0079, overlap, 1.000000, 16.193804, 19.322650, 0.011383, 0.013981
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 09:26:11,546, epoch, 0080, overlap, 1.000000, 9.741218, 2.619131, 0.007869, 0.010403
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 09:36:01,075, epoch, 0081, overlap, 1.000000, 6.313108, 9.471372, 0.008665, 0.006241
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 09:45:56,082, epoch, 0082, overlap, 1.000000, 7.988785, 0.818774, 0.005582, 0.011657
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 09:55:53,811, epoch, 0083, overlap, 1.000000, 5.672207, 5.724194, 0.009594, 0.012364
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 10:05:53,125, epoch, 0084, overlap, 1.000000, 6.552278, 2.109845, 0.010698, 0.015405
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 10:15:54,739, epoch, 0085, overlap, 1.000000, 10.237092, 10.639761, 0.012409, 0.011879
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 10:25:55,427, epoch, 0086, overlap, 1.000000, 12.344973, 5.187586, 0.009690, 0.009385
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 10:36:00,293, epoch, 0087, overlap, 1.000000, 13.697102, 11.903001, 0.013980, 0.016904
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 10:45:58,608, epoch, 0088, overlap, 1.000000, 6.365118, 20.466688, 0.008944, 0.019571
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 10:55:55,951, epoch, 0089, overlap, 1.000000, 6.703078, 2.786285, 0.011220, 0.012744
+INFO:/content/drive/MyDrive/ori_PointNetLK-master/logf/r_g_log.log, 2023-03-04 11:05:50,413, epoch, 0090, overlap, 1.000000, 6.705813, 11.221919, 0.010569, 0.012860
